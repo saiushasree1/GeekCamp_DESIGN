@@ -9,7 +9,7 @@ Design the **home screen and the bookings page** that seem suitable to you based
 - Design the home screen and the bookings screen of this app.
 - The content of the screens can vary as per your understanding of the purpose of the app.
 - The screens must have proper consistency in terms of fonts, colours and imagery.
-- Submit the link to the figma file in a .txt file and place the file in ‘**Design Contest Task-2’** folder only.
+- Submit the link to the figma file in a .txt file and place the file in ‘**Design Contest Task-1’** folder only.
 - No submission will be considered after 9th April 5.30pm.
 
 > This task is for 50 points.
